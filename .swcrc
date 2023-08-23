@@ -1,0 +1,17 @@
+{
+  "jsc": {
+    "experimental": {
+      "keepImportAssertions": true
+    },
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true,
+      "dynamicImport": true
+    },
+    "target": "es2020"
+  },
+  "module": {
+    "type": "es6"
+  },
+  "sourceMaps": true
+}
